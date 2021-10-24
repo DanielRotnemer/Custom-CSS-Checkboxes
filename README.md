@@ -1,6 +1,4 @@
 # Custom-CSS-Checkboxes
-Custom CSS-Only Styled checkboxes and radio buttons
-
 Custom CSS-Only styled checkboxes and radio buttons.
 
 If you find this piece of code useful please give it a thumbs up.
